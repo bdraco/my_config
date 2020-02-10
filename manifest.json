@@ -1,0 +1,22 @@
+{
+  "domain": "my_config",
+  "name": "My config default without discovery and cloud",
+  "documentation": "https://github.com/bdraco/my_config",
+  "requirements": [],
+  "dependencies": [
+    "automation",
+    "config",
+    "frontend",
+    "history",
+    "logbook",
+    "map",
+    "mobile_app",
+    "person",
+    "script",
+    "sun",
+    "system_health",
+    "updater",
+    "zone"
+  ],
+  "codeowners": []
+}
